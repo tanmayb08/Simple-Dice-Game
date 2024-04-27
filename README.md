@@ -8,3 +8,4 @@ A simple dice game :
 Just try to implement some of the basic concepts of JavaScript.
 
 You can check the result by clicking following link:
+https://tanmayb08.github.io/Simple-Dice-Game/
